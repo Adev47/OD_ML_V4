@@ -1,4 +1,3 @@
 UNLOCK ALL,online,1.00.01,https://raw.githubusercontent.com/Adev47/TEST_ML/main/uploads/OD_UA.exe
 VIP CHAIR,online,1.00.01,https://raw.githubusercontent.com/Adev47/TEST_ML/main/uploads/OD_CHAIR_VIP.exe
 OD CHAIR,online,1.00.01,https://raw.githubusercontent.com/Adev47/TEST_ML/main/uploads/OD_chair.exe
-TEST,online,1.00.01,https://cdn.discordapp.com/attachments/1245904292565614603/1278576654943522816/OD.exe?ex=66d14ecd&is=66cffd4d&hm=696beb470203fdd63be48eeda9ed15b89522434dad05241e5b2a055c9e822d80&
